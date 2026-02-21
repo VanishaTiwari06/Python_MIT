@@ -4,3 +4,5 @@ if n%2 == 0:
 else:
     print(False)
 
+print("Address")
+print("Class")
