@@ -14,3 +14,5 @@ while n >= i:
     fact = fact * i
     i = i+1
 print (fact)
+
+print("Vanisha")
